@@ -17,3 +17,4 @@ dependencies:
   - seaborn
   - sympy
   - opencv-python
+  - imageio
