@@ -16,5 +16,5 @@ dependencies:
   - scikit-learn
   - seaborn
   - sympy
-  - opencv-python
+  - opencv
   - imageio
